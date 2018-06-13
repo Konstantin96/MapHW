@@ -1,0 +1,4 @@
+apple/this is fruit which can be red, yellow and green
+school/a place where children study
+phone/comunication tool
+computer/compucting machine which can be used in diffrent purposes
